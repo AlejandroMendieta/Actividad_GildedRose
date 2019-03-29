@@ -1,0 +1,6 @@
+c:\users\personal\documents\visual studio 2012\Projects\Actividad_Opcional_Modulo4\Actividad_Opcional_Modulo4\bin\Debug\Actividad_Opcional_Modulo4.exe.config
+c:\users\personal\documents\visual studio 2012\Projects\Actividad_Opcional_Modulo4\Actividad_Opcional_Modulo4\bin\Debug\Actividad_Opcional_Modulo4.exe
+c:\users\personal\documents\visual studio 2012\Projects\Actividad_Opcional_Modulo4\Actividad_Opcional_Modulo4\bin\Debug\Actividad_Opcional_Modulo4.pdb
+c:\users\personal\documents\visual studio 2012\Projects\Actividad_Opcional_Modulo4\Actividad_Opcional_Modulo4\obj\Debug\Actividad_Opcional_Modulo4.exe
+c:\users\personal\documents\visual studio 2012\Projects\Actividad_Opcional_Modulo4\Actividad_Opcional_Modulo4\obj\Debug\Actividad_Opcional_Modulo4.pdb
+c:\users\personal\documents\visual studio 2012\Projects\Actividad_Opcional_Modulo4\Actividad_Opcional_Modulo4\obj\Debug\Actividad_Opcional_Modulo4.csprojResolveAssemblyReference.cache

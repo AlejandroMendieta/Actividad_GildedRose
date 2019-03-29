@@ -1,0 +1,7 @@
+c:\users\personal\documents\visual studio 2012\Projects\Actividad_Opcional_Modulo4\Actividad_Opcional_Modulo4_Test\bin\Debug\Actividad_Opcional_Modulo4_Test.dll
+c:\users\personal\documents\visual studio 2012\Projects\Actividad_Opcional_Modulo4\Actividad_Opcional_Modulo4_Test\bin\Debug\Actividad_Opcional_Modulo4_Test.pdb
+c:\users\personal\documents\visual studio 2012\Projects\Actividad_Opcional_Modulo4\Actividad_Opcional_Modulo4_Test\bin\Debug\Actividad_Opcional_Modulo4.exe
+c:\users\personal\documents\visual studio 2012\Projects\Actividad_Opcional_Modulo4\Actividad_Opcional_Modulo4_Test\bin\Debug\Actividad_Opcional_Modulo4.pdb
+c:\users\personal\documents\visual studio 2012\Projects\Actividad_Opcional_Modulo4\Actividad_Opcional_Modulo4_Test\obj\Debug\Actividad_Opcional_Modulo4_Test.csprojResolveAssemblyReference.cache
+c:\users\personal\documents\visual studio 2012\Projects\Actividad_Opcional_Modulo4\Actividad_Opcional_Modulo4_Test\obj\Debug\Actividad_Opcional_Modulo4_Test.dll
+c:\users\personal\documents\visual studio 2012\Projects\Actividad_Opcional_Modulo4\Actividad_Opcional_Modulo4_Test\obj\Debug\Actividad_Opcional_Modulo4_Test.pdb
